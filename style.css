@@ -8,6 +8,7 @@ body{
 }
 
 p{
+font-family: 'Lato Thin', sans-serif;
   font-size: 18px;
 }
 
@@ -16,9 +17,7 @@ p{
   }
 
   @font-face{
-    font-family: "Lovely Home";
-    src:local('Lovely Home'), 
-    url("Image/LovelyHome-9aBZ.ttf") format('truetype');
+    font-family: 'Lato Thin', sans-serif;
 
   }
 
@@ -34,6 +33,7 @@ p{
 
 
   .headerachor {
+    font-family: 'Lato Thin', sans-serif;
     color: black;
     margin: 0 7px 0 7px;
     font-size: 25px;
