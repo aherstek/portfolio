@@ -1,5 +1,5 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato Thin', sans-serif;
     font-weight: 700;
     margin: 0;
   }
@@ -21,7 +21,7 @@ body{
 .brand-name ,.navbar-light .navbar-brand{
       /* font-family: "Brush Script MT"; */
       /* margin-bottom: 3px; */
-      font-family: "Lovely Home";
+      font-family: "Lato Thin";
       font-size: 50px;
       font-weight: bold;
       color: #351458;
@@ -29,7 +29,7 @@ body{
 
   @media only screen and (max-width : 764px){
       .brand-name ,.navbar-light .navbar-brand{
-      font-family: "Lovely Home";
+      font-family: "Lato Thin";
       font-size: 40px;
       font-weight: bold;
       color: #351458;
@@ -38,6 +38,7 @@ body{
 
 
   .headerachor {
+    font-family: "Lato Thin";
     color: black;
     margin: 0 7px 0 7px;
     font-size: 25px;
@@ -57,7 +58,7 @@ body{
 }
 
 .Skill-heading{
-    font-family: "Montserrat";
+    font-family: "Lato Thin";
     font-size: 40px;
     font-weight: 300;
 }
@@ -88,7 +89,7 @@ body{
     position: relative;
     border-radius:20px;
     /* background: rgba(17, 17, 17, .3); */
-    background: #c5c2ff;
+    background: #f1f1f1;
     margin: 20px auto;
 }
 
@@ -102,7 +103,7 @@ body{
     -o-animation: Animate-HTML 4s;
     height: 50px;
     position: absolute;
-    background-color:#6c63ff;
+    background-color:#F3D4D5;
 }
 @keyframes Animate-HTML {
     from {
@@ -137,7 +138,7 @@ to {
     width: 70%;
     height: 50px;
     position: absolute;
-    background-color: #6c63ff;
+    background-color: #F3D4D5;
 }
 @keyframes Animate-CSS {
     from {
@@ -172,7 +173,7 @@ to {
     width: 80%;
     height: 50px;
     position: absolute;
-    background-color: #6c63ff;
+    background-color: #F3D4D5;
 }
 @keyframes Animate-Python {
     from {
@@ -207,7 +208,7 @@ to {
     width: 65%;
     height: 50px;
     position: absolute;
-    background-color: #6c63ff;
+    background-color: #F3D4D5;
 }
 @keyframes Animate-JS {
     from {
@@ -244,7 +245,7 @@ to {
     width: 80%;
     height: 50px;
     position: absolute;
-    background-color: #6c63ff;
+    background-color: #F3D4D5;
 }
 @keyframes Animate-C {
     from {
@@ -279,7 +280,7 @@ to {
     width: 85%;
     height: 50px;
     position: absolute;
-    background-color: #6c63ff;
+    background-color: #F3D4D5;
 }
 @keyframes Animate-Cplus {
     from {
@@ -314,7 +315,7 @@ to {
     width: 80%;
     height: 50px;
     position: absolute;
-    background-color: #6c63ff;
+    background-color: #F3D4D5;
 }
 @keyframes Animate-SQL {
     from {
