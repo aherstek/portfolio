@@ -20,14 +20,12 @@ body{
       /* margin-bottom: 3px; */
       font-family: "Lato Thin";
       font-size: 50px;
-      font-weight: bold;
       color: #351458;
   }
   @media only screen and (max-width : 764px){
       .brand-name ,.navbar-light .navbar-brand{
       font-family: "Lato Thin";
       font-size: 40px;
-      font-weight: bold;
       color: #351458;
   }
 }
@@ -102,7 +100,7 @@ body{
     color:black;
     position:relative;
     padding:4px 15px 4px 35px;
-    background-color:#a6a1ff;
+    background-color:#F3D4D5;
     display:inline-block;
     width:auto;
     border-radius:40px;
@@ -147,7 +145,7 @@ body{
   .timeline-date{
     margin-bottom:15px;
     padding:2px 15px;
-    background:#a6a1ff;
+    background:#F3D4D5;
     position:relative;
     display:inline-block;
     border-radius:20px;
@@ -182,7 +180,7 @@ body{
   .timeline-box{
     position:relative;
     color:black;
-    background-color:#a6a1ff;
+    background-color:#F3D4D5;
     border-radius:15px;
     border-top-left-radius:0px;
     border-bottom-right-radius:0px;
