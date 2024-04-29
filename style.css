@@ -1,6 +1,6 @@
 
 body{
-    font-family: 'Lato Thin', sans-serif;
+    font-family: "Montserrat";
     margin: 0;
   }
 .body_section{
@@ -8,7 +8,7 @@ body{
 }
 
 p{
-font-family: 'Lato Thin', sans-serif;
+font-family: "Montserrat";
   font-size: 18px;
 }
 
@@ -17,23 +17,22 @@ font-family: 'Lato Thin', sans-serif;
   }
 
   @font-face{
-    font-family: 'Lato Thin', sans-serif;
+    font-family: "Montserrat";
 
   }
 
 .brand-name ,.navbar-light .navbar-brand{
       /* font-family: "Brush Script MT"; */
       /* margin-bottom: 3px; */
-      font-family: "Lovely Home";
+      ffont-family: "Montserrat";
       font-size: 50px;
-      font-weight: bold;
       color: #351458;
   }
 
 
 
   .headerachor {
-    font-family: 'Lato Thin', sans-serif;
+    font-family: "Montserrat";
     color: black;
     margin: 0 7px 0 7px;
     font-size: 25px;
